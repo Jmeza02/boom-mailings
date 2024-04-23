@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="335" viewBox="0 0 600 335">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1577" data-name="Rectángulo 1577" width="600" height="335" transform="translate(0 40)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="grupo_fuguras_uno" transform="translate(0 -40)" clip-path="url(#clip-path)">
+    <g id="Grupo_4339" data-name="Grupo 4339">
+      <g id="Elipse_184" data-name="Elipse 184" transform="translate(514 317)" fill="none" stroke="#2da69b" stroke-width="20">
+        <circle cx="66" cy="66" r="66" stroke="none"/>
+        <circle cx="66" cy="66" r="56" fill="none"/>
+      </g>
+      <g id="Elipse_183" data-name="Elipse 183" transform="translate(574 146)" fill="none" stroke="#522d6d" stroke-width="8">
+        <circle cx="18.5" cy="18.5" r="18.5" stroke="none"/>
+        <circle cx="18.5" cy="18.5" r="14.5" fill="none"/>
+      </g>
+      <g id="Elipse_180" data-name="Elipse 180" transform="translate(-48 234)" fill="none" stroke="#2da69b" stroke-width="20">
+        <circle cx="57" cy="57" r="57" stroke="none"/>
+        <circle cx="57" cy="57" r="47" fill="none"/>
+      </g>
+      <g id="Polígono_13" data-name="Polígono 13" transform="translate(534 62)" fill="none">
+        <path d="M38.5,0,77,63H0Z" stroke="none"/>
+        <path d="M 38.5 19.17729568481445 L 17.83057022094727 53 L 59.16942977905273 53 L 38.5 19.17729568481445 M 38.5 0 L 77 63 L 0 63 L 38.5 0 Z" stroke="none" fill="#b8be14"/>
+      </g>
+      <g id="Polígono_12" data-name="Polígono 12" transform="translate(-11 143)" fill="none">
+        <path d="M26.5,0,53,43H0Z" stroke="none"/>
+        <path d="M 26.5 15.24826240539551 L 14.32741928100586 35 L 38.67258453369141 35 L 26.5 15.24826240539551 M 26.5 0 L 53 43 L 0 43 L 26.5 0 Z" stroke="none" fill="#b8be14"/>
+      </g>
+    </g>
+  </g>
+</svg>

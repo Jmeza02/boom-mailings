@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="429" viewBox="0 0 600 429">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_1579" data-name="Rectángulo 1579" width="600" height="429" transform="translate(3271 11939)" fill="#eaeaea"/>
+    </clipPath>
+  </defs>
+  <g id="fondo-dos" transform="translate(-3271 -11939)" clip-path="url(#clip-path)">
+    <g id="Elipse_189" data-name="Elipse 189" transform="translate(3728 12195)" fill="none" stroke="#2da69b" stroke-width="30">
+      <circle cx="86.5" cy="86.5" r="86.5" stroke="none"/>
+      <circle cx="86.5" cy="86.5" r="71.5" fill="none"/>
+    </g>
+    <g id="Elipse_188" data-name="Elipse 188" transform="translate(3757 11950)" fill="none" stroke="#522d6d" stroke-width="10">
+      <circle cx="23" cy="23" r="23" stroke="none"/>
+      <circle cx="23" cy="23" r="18" fill="none"/>
+    </g>
+    <g id="Polígono_14" data-name="Polígono 14" transform="translate(3803 11978)" fill="none">
+      <path d="M38.5,0,77,63H0Z" stroke="none"/>
+      <path d="M 38.5 19.17729568481445 L 17.83057022094727 53 L 59.16942977905273 53 L 38.5 19.17729568481445 M 38.5 0 L 77 63 L 0 63 L 38.5 0 Z" stroke="none" fill="#b8be14"/>
+    </g>
+  </g>
+</svg>
